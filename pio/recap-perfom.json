@@ -1,6 +1,6 @@
 {
   "summary": {
-    "shows": 70,
+    "shows": 72,
     "setlist": 5,
     "unitsong": 6
   },
@@ -56,6 +56,16 @@
         {
           "name": "Migikata",
           "total": 26
+        }
+      ]
+    },
+    {
+      "name": "Renai Kinshi Jourei",
+      "team": "-",
+      "unit": [
+        {
+          "name": "Heart Gata Virus",
+          "total": 2
         }
       ]
     }
