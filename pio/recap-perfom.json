@@ -1,6 +1,6 @@
 {
   "summary": {
-    "shows": 72,
+    "shows": 76,
     "setlist": 6,
     "unitsong": 7
   },
@@ -8,6 +8,7 @@
     {
       "name": "Saka Agari",
       "team": "KIII",
+      "show": 3,
       "unit": [
         {
           "name": "Ai no Iro",
@@ -18,6 +19,7 @@
     {
       "name": "Seifuku no Me",
       "team": "T",
+      "show": 3,
       "unit": [
         {
           "name": "MANGEKYOU",
@@ -28,6 +30,7 @@
     {
       "name": "Pajama Drive",
       "team": "Academy A",
+      "show": 30,
       "unit": [
         {
           "name": "Temodemo no Namida",
@@ -42,6 +45,7 @@
     {
       "name": "Boku no Taiyou",
       "team": "Academy A",
+      "show": 6,
       "unit": [
         {
           "name": "Himawari",
@@ -52,6 +56,7 @@
     {
       "name": "Fly! Team T",
       "team": "T",
+      "show": 26,
       "unit": [
         {
           "name": "Migikata",
@@ -62,10 +67,22 @@
     {
       "name": "Renai Kinshi Jourei",
       "team": "-",
+      "show": 4,
       "unit": [
         {
           "name": "Heart Gata Virus",
-          "total": 2
+          "total": 4
+        }
+      ]
+    },
+    {
+      "name": "Seishun Girls",
+      "team": "-",
+      "show": 2,
+      "unit": [
+        {
+          "name": "Kinjirareta Futari",
+          "total": 1
         }
       ]
     }
