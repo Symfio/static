@@ -1,8 +1,8 @@
 {
   "summary": {
-    "shows": 76,
-    "setlist": 7,
-    "unitsong": 8
+    "shows": 86,
+    "setlist": 8,
+    "unitsong": 9
   },
   "setlists": [
     {
@@ -67,7 +67,7 @@
     {
       "name": "Renai Kinshi Jourei",
       "team": "-",
-      "show": 4,
+      "show": 8,
       "unit": [
         {
           "name": "Heart Gata Virus",
@@ -78,11 +78,22 @@
     {
       "name": "Seishun Girls",
       "team": "-",
-      "show": 2,
+      "show": 6,
       "unit": [
         {
           "name": "Kinjirareta Futari",
-          "total": 1
+          "total": 4
+        }
+      ]
+    },
+    {
+      "name": "Seifuku no Me",
+      "team": "#NewEra",
+      "show": 2,
+      "unit": [
+        {
+          "name": "Ookami to Pride",
+          "total": 2
         }
       ]
     }
