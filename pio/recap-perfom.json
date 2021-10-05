@@ -1,6 +1,6 @@
 {
   "summary": {
-    "shows": 89,
+    "shows": 95,
     "setlist": 8,
     "unitsong": 9
   },
@@ -67,22 +67,22 @@
     {
       "name": "Renai Kinshi Jourei",
       "team": "ONE",
-      "show": 8,
+      "show": 11,
       "unit": [
         {
           "name": "Heart Gata Virus",
-          "total": 5
+          "total": 11
         }
       ]
     },
     {
       "name": "Seishun Girls",
       "team": "ONE",
-      "show": 6,
+      "show": 8,
       "unit": [
         {
           "name": "Kinjirareta Futari",
-          "total": 5
+          "total": 6
         }
       ]
     },
@@ -93,7 +93,7 @@
       "unit": [
         {
           "name": "Ookami to Pride",
-          "total": 2
+          "total": 5
         }
       ]
     }
