@@ -1,6 +1,6 @@
 {
   "summary": {
-    "shows": 95,
+    "shows": 97,
     "setlist": 8,
     "unitsong": 9
   },
@@ -78,7 +78,7 @@
     {
       "name": "Seishun Girls",
       "team": "ONE",
-      "show": 8,
+      "show": 9,
       "unit": [
         {
           "name": "Kinjirareta Futari",
@@ -93,7 +93,7 @@
       "unit": [
         {
           "name": "Ookami to Pride",
-          "total": 5
+          "total": 6
         }
       ]
     }
