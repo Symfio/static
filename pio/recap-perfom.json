@@ -1,7 +1,7 @@
 {
   "name": "Symfiony Recap",
   "summary": {
-    "shows": 106,
+    "shows": 114,
     "setlist": 8,
     "unitsong": 9
   },
@@ -68,11 +68,11 @@
     {
       "name": "Renai Kinshi Jourei",
       "team": "ONE",
-      "show": 11,
+      "show": 16,
       "unit": [
         {
           "name": "Heart Gata Virus",
-          "total": 14
+          "total": 16
         }
       ]
     },
@@ -83,18 +83,18 @@
       "unit": [
         {
           "name": "Kinjirareta Futari",
-          "total": 7
+          "total": 9
         }
       ]
     },
     {
       "name": "Seifuku no Me",
       "team": "ONE",
-      "show": 2,
+      "show": 14,
       "unit": [
         {
           "name": "Ookami to Pride",
-          "total": 10
+          "total": 14
         }
       ]
     }
