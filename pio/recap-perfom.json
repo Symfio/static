@@ -1,7 +1,7 @@
 {
   "name": "Symfiony Recap",
   "summary": {
-    "shows": 146,
+    "shows": 166,
     "setlist": 8,
     "unitsong": 9
   },
@@ -68,22 +68,22 @@
     {
       "name": "Renai Kinshi Jourei",
       "team": "ONE",
-      "show": 25,
+      "show": 30,
       "unit": [
         {
           "name": "Heart Gata Virus",
-          "total": 25
+          "total": 30
         }
       ]
     },
     {
       "name": "Seishun Girls",
       "team": "ONE",
-      "show": 21,
+      "show": 25,
       "unit": [
         {
           "name": "Kinjirareta Futari",
-          "total": 12
+          "total": 18
         }
       ]
     },
@@ -94,11 +94,42 @@
       "unit": [
         {
           "name": "Ookami to Pride",
-          "total": 22
+          "total": 29
         },
         {
           "name": "MANGEKYOU",
           "total": 10
+        }
+      ]
+    },
+    {
+      "name": "Banzai!",
+      "team": "ONE",
+      "show": 7,
+      "unit": [
+        {
+          "name": "Kuchiutsushi no Chocolate",
+          "total": 1
+        },
+        {
+          "name": "Findland Miracle",
+          "total": 1
+        },
+        {
+          "name": "Candy",
+          "total": 1
+        },
+        {
+          "name": "Dakishimeraretara",
+          "total": 1
+        },
+        {
+          "name": "Zannen Shoujo",
+          "total": 1
+        },
+        {
+          "name": "Junai no Crescendo",
+          "total": 1
         }
       ]
     }
