@@ -1,7 +1,7 @@
 {
   "name": "Symfiony Recap",
   "summary": {
-    "shows": 166,
+    "shows": 178,
     "setlist": 8,
     "unitsong": 9
   },
@@ -73,39 +73,43 @@
         {
           "name": "Heart Gata Virus",
           "total": 30
+        },
+        {
+          "name": "Kuroi Tenshi",
+          "total": 2
         }
       ]
     },
     {
       "name": "Seishun Girls",
       "team": "ONE",
-      "show": 25,
+      "show": 29,
       "unit": [
         {
           "name": "Kinjirareta Futari",
-          "total": 18
+          "total": 21
         }
       ]
     },
     {
       "name": "Seifuku no Me",
       "team": "ONE",
-      "show": 30,
+      "show": 41,
       "unit": [
         {
           "name": "Ookami to Pride",
-          "total": 29
+          "total": 34
         },
         {
           "name": "MANGEKYOU",
-          "total": 10
+          "total": 7
         }
       ]
     },
     {
       "name": "Banzai!",
       "team": "ONE",
-      "show": 7,
+      "show": 10,
       "unit": [
         {
           "name": "Kuchiutsushi no Chocolate",
@@ -125,11 +129,11 @@
         },
         {
           "name": "Zannen Shoujo",
-          "total": 1
+          "total": 2
         },
         {
           "name": "Junai no Crescendo",
-          "total": 1
+          "total": 2
         }
       ]
     }
