@@ -1,11 +1,22 @@
 {
   "name": "Symfiony Recap",
   "summary": {
-    "shows": 178,
-    "setlist": 8,
+    "shows": 179,
+    "setlist": 9,
     "unitsong": 9
   },
   "setlists": [
+    {
+      "name": "Ramune no Nomikata",
+      "team": "ONE",
+      "show": 1,
+      "unit": [
+        {
+          "name": "Findland Miracle",
+          "total": 1
+        }
+      ]
+    },
     {
       "name": "Saka Agari",
       "team": "KIII",
