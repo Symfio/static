@@ -1,7 +1,7 @@
 {
   "name": "Symfiony Recap",
   "summary": {
-    "shows": 198,
+    "shows": 203,
     "setlist": 9,
     "unitsong": 9
   },
@@ -9,11 +9,11 @@
     {
       "name": "Ramune no Nomikata",
       "team": "ONE",
-      "show": 7,
+      "show": 10,
       "unit": [
         {
           "name": "Findland Miracle",
-          "total": 8
+          "total": 10
         }
       ]
     },
@@ -79,7 +79,7 @@
     {
       "name": "Renai Kinshi Jourei",
       "team": "ONE",
-      "show": 36,
+      "show": 37,
       "unit": [
         {
           "name": "Heart Gata Virus",
@@ -87,7 +87,7 @@
         },
         {
           "name": "Kuroi Tenshi",
-          "total": 6
+          "total": 7
         }
       ]
     },
@@ -105,11 +105,11 @@
     {
       "name": "Seifuku no Me",
       "team": "ONE",
-      "show": 47,
+      "show": 48,
       "unit": [
         {
           "name": "Ookami to Pride",
-          "total": 42
+          "total": 43
         },
         {
           "name": "MANGEKYOU",
