@@ -1,7 +1,7 @@
 {
   "name": "Symfiony Recap",
   "summary": {
-    "shows": 230,
+    "shows": 234,
     "setlist": 9,
     "unitsong": 17
   },
@@ -9,11 +9,11 @@
     {
       "name": "Ramune no Nomikata",
       "team": "ONE",
-      "show": 22,
+      "show": 23,
       "unit": [
         {
           "name": "Findland Miracle",
-          "total": 22
+          "total": 24
         }
       ]
     },
@@ -79,7 +79,7 @@
     {
       "name": "Renai Kinshi Jourei",
       "team": "ONE",
-      "show": 43,
+      "show": 46,
       "unit": [
         {
           "name": "Heart Gata Virus",
@@ -87,7 +87,7 @@
         },
         {
           "name": "Kuroi Tenshi",
-          "total": 13
+          "total": 16
         }
       ]
     },
