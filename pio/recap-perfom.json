@@ -1,9 +1,9 @@
 {
   "name": "Symfiony Recap",
   "summary": {
-    "shows": 257,
+    "shows": 285,
     "setlist": 9,
-    "unitsong": 19
+    "unitsong": 21
   },
   "setlists": [
     {
@@ -14,6 +14,18 @@
         {
           "name": "Findland Miracle",
           "total": 24
+        },
+        {
+          "name": "Utsukushi no Dachou",
+          "total": 8
+        },
+        {
+          "name": "Manazashi Sayonara",
+          "total": 3
+        },
+        {
+          "name": "Kareha No Station",
+          "total": 3
         }
       ]
     },
@@ -88,6 +100,10 @@
         {
           "name": "Kuroi Tenshi",
           "total": 16
+        },
+        {
+          "name": "Renai Kinshi Jourei",
+          "total": 5
         }
       ]
     },
@@ -109,7 +125,7 @@
       "unit": [
         {
           "name": "Ookami to Pride",
-          "total": 50
+          "total": 60
         },
         {
           "name": "MANGEKYOU",
