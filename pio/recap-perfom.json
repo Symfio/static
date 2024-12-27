@@ -23,10 +23,6 @@
           "name": "Manazashi Sayonara",
           "total": 3
         },
-        {
-          "name": "Kareha No Station",
-          "total": 3
-        }
       ]
     },
     {
@@ -130,6 +126,10 @@
         {
           "name": "MANGEKYOU",
           "total": 9
+        },
+        {
+          "name": "Kareha No Station",
+          "total": 3
         }
       ]
     },
